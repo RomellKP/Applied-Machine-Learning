@@ -14,7 +14,7 @@
   ### Run and Compile:
 
   
-  **My Contributions:**  
+  ### My Contributions: 
 
 
 ## Project 2:   
