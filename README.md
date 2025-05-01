@@ -2,7 +2,7 @@
 
 ## Project 1: White Wine Quality Prediction  
 
-  **Description:**  
+  ### Description:  
   This project uses ML models from built from scratch in PyTorch to predict the quality of white wine based on its chemical attributes. It includes
   data visualization. model training using gradient descent, and evaluationby cross-validation.
 
