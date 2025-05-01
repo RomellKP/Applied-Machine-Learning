@@ -11,8 +11,8 @@
   - Gradient descent from scratch to train linear, multi-linear, and non-linear models with epoch training
   - 5 fold cross-validation to assess model generalization  
     1. **Linear Regression** – using only alcohol as input  
-2. **Multi-linear Regression** – using multiple normalized features  
-3. **Non-linear Regression** – includes feature interactions
+    2. **Multi-linear Regression** – using multiple normalized features  
+    3. **Non-linear Regression** – includes feature interactions
     
   
   ### Run and Compile:
