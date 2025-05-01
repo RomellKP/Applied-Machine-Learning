@@ -9,7 +9,8 @@
   ### Features:  
   - Data visualization using pandas, matplotlib, and seaborn for summaries and visualizations including heatmaps, histograms, violin plots, and joint plots to explore feature correlations
   - Gradient descent from scratch to train linear, multi-linear, and non-linear models with epoch training
-  - 5 fold cross-validation to assess model generalization  
+  - 5 fold cross-validation to assess model generalization
+  - 3 models implemented with gradient descent:  
     1. **Linear Regression** – using only alcohol as input  
     2. **Multi-linear Regression** – using multiple normalized features  
     3. **Non-linear Regression** – includes feature interactions
