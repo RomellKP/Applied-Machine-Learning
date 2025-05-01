@@ -20,6 +20,7 @@
 
   
   ### My Contributions: 
+  - HW3-4980.ipynb
 
 
 ## Project 2:   
@@ -34,6 +35,7 @@
   
   
   ### My Contributions:
+  - HW4-4980.ipynb
   
 
 ## Project 3:
@@ -48,5 +50,6 @@
   
   
   ### My Contributions:
+  - 4980-HW5.ipynb
 
   
