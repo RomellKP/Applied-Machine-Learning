@@ -1,6 +1,6 @@
 # Projects for Applied Machine Learning:
 
-## Project 1: White Wine Quality Prediction:  
+## Project 1: White Wine Quality Prediction  
 
   **Description:**  
   This project uses ML models from built from scratch in PyTorch to predict the quality of wgite wine based on its chemical attributes. It includes
