@@ -17,6 +17,10 @@
     
   
   ### Run and Compile:
+  1. Type in command "pip install notebook"
+  2. Type in command "jupyter notebook"
+  3. Once web browser is open, navigate to HW3-4980.ipynb and open it
+  4. Shift + Enter to run by cell or "Restart & Run All" to execute
 
   
   ### My Contributions: 
