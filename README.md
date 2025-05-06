@@ -47,22 +47,28 @@
   ### Run and Compile:
   1. Type in command "pip install notebook"
   2. Type in command "jupyter notebook"
-  3. Once web browser is open, navigate to HW3-4980.ipynb and open it
+  3. Once web browser is open, navigate to HW4-4980.ipynb and open it
   4. Shift + Enter to run by cell or "Restart & Run All" to execute
   
   ### My Contributions:
   - HW4-4980.ipynb
   
 
-## Project 5:
+## Project 5: CIFAR-10 Convolutional Neural Network Classifier
 
-  ### Description: 
+  ### Description:
+  Implements and compares several convolutional neural networks using PyTorch to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset contains60,000 32x32 color images
+  accross 10 object categories, used for benchmarking computer cision models. 
   
 
  ### Features: 
  
   
   ### Run and Compile:
+  1. Type in command "pip install notebook"
+  2. Type in command "jupyter notebook"
+  3. Once web browser is open, navigate to HW5-4980.ipynb and open it
+  4. Shift + Enter to run by cell or "Restart & Run All" to execute
   
   
   ### My Contributions:
