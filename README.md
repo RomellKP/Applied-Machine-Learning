@@ -2,7 +2,7 @@
 
 ---
 
-## Project 3: White Wine Quality Prediction  
+## Project 3: White Wine Quality Prediction 🍷  
 
   ### Description:  
   This project uses ML models from built from scratch in PyTorch to predict the quality of white wine based on its chemical attributes. It includes
@@ -29,7 +29,7 @@
   - HW3-4980.ipynb
 
 
-## Project 4: MNIST Digit Classification
+## Project 4: MNIST Digit Classification 🔢
 
   ### Description:
  This project uses the MNIST dataset from OpenML, consisting for 70,000 grayscale images of handwritten digits (0 through 9).
@@ -56,7 +56,7 @@
   - HW4-4980.ipynb
   
 
-## Project 5: CIFAR-10 Convolutional Neural Network Classifier
+## Project 5: CIFAR-10 Convolutional Neural Network Classifier 🌠
 
   ### Description:
   Implements and compares several convolutional neural networks using PyTorch to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset contains60,000 32x32 color images
