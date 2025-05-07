@@ -18,7 +18,7 @@
     3. **Non-linear Regression** – includes feature interactions
     
   
-  ### Run and Compile:
+  ### How to Run:
   1. Type in command "pip install notebook"
   2. Type in command "jupyter notebook"
   3. Once web browser is open, navigate to HW3-4980.ipynb and open it
@@ -46,7 +46,7 @@
   - Functions for training, testing, logging, and visualizing performance
   
   
-  ### Run and Compile:
+  ### How to Run:
   1. Type in command "pip install notebook"
   2. Type in command "jupyter notebook"
   3. Once web browser is open, navigate to HW4-4980.ipynb and open it
@@ -73,7 +73,7 @@
   - CIFAR-10 prediction vizualization
  
   
-  ### Run and Compile:
+  ### How to Run:
   1. Type in command "pip install notebook"
   2. Type in command "jupyter notebook"
   3. Once web browser is open, navigate to HW5-4980.ipynb and open it
