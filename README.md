@@ -1,5 +1,7 @@
 # Projects for Applied Machine Learning:
 
+---
+
 ## Project 3: White Wine Quality Prediction  
 
   ### Description:  
