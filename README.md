@@ -59,7 +59,7 @@
 ## Project 5: CIFAR-10 Convolutional Neural Network Classifier 🌠
 
   ### Description:
-  Implements and compares several convolutional neural networks using PyTorch to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset contains60,000 32x32 color images
+  Implements and compares several convolutional neural networks using PyTorch to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset contains 60,000 32x32 color images
   accross 10 object categories, used for benchmarking computer cision models. 
   
 
