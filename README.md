@@ -62,6 +62,13 @@
   
 
  ### Features: 
+ - Multiple CNNN structures:
+   1. CNN: two layer-CNN with batch normalizations
+   2. CNNold: a simpler variant with no normalization
+   3. CNNnew: a deeper model that has Gaussian noise, dropout, and batch normalization
+  - training and test loss tracking
+  - accuracy reporting
+  - CIFAR-10 prediction vizualization
  
   
   ### Run and Compile:
